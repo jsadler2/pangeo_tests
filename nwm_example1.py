@@ -1,3 +1,5 @@
+# this code was copied from a Jupyter notebook from Rich Signell's youtube
+# video: https://www.youtube.com/watch?v=2TkZa0s58qs
 import xarray as xr
 import s3fs
 from geoviews import opts
